@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>$title$</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href='https://fonts.googleapis.com/css?family=Fira+Mono' rel='stylesheet' type='text/css' />
+		<style>
+		body {
+			max-width: 40em;
+			margin: 0 auto;
+			padding: 0 1em;
+		}
+
+		body * {
+			font-family: "Fira Mono", "Liberation Mono", monospace;
+		}
+
+		pre {
+			white-space: pre-wrap;
+		}
+
+		a {
+			color: black;
+		}
+
+		#dots {
+			position: absolute;
+			top: 0;
+			left: 0;
+			opacity: 0.15;
+			z-index: -1;
+		}
+		</style>
+	</head>
+
+	<body>
+		<section id="content">
+$body$
+		</section>
+
+		<canvas id="dots"></canvas>
+		<script src="https://heartheartheart.github.io/dots/dotdotdot.js"></script>
+		<script>
+		dotdotdot.run_random = function(canvas) {
+			var ctx = canvas.getContext("2d");
+			if (dotdotdot.invert) {
+				ctx.fillRect(0, 0, canvas.width, canvas.height);
+				ctx.strokeStyle = "white";
+			}
+
+			// start the fun
+			var third = canvas.width;
+			var r = Math.min(canvas.width, canvas.height) / 2;
+
+			var c = Math.cos(Math.PI / 2);
+			var s = Math.sin(Math.PI / 2);
+
+			var env = {r: r, s: s, c: c};
+
+			var p = {x: canvas.width / 2, y: canvas.height / 2 };
+
+			// draw circle
+			ctx.beginPath()
+			ctx.arc(p.x, p.y, r, 0, 2 * Math.PI);
+			ctx.stroke();
+
+			// draw the dot
+			ctx.translate(p.x, p.y);
+			var ds = Object.keys(dotdotdot.dots);
+			var dot = dotdotdot.dots[ds[Math.floor(Math.random() * ds.length)]];
+			dot(ctx, env);
+		}
+
+		var canvas = document.querySelector("#dots");
+
+		function resize() {
+			canvas.width = window.innerWidth;
+			canvas.height = window.innerHeight;
+
+			dotdotdot.run_random(canvas);
+		}
+		window.onresize = resize;
+
+		resize();
+		</script>
+	</body>
+</html>
