@@ -1,20 +1,24 @@
-# dotdotdot #0
+# dotdotdot #1
 
 ## Das Thema
 
-**[Datomic][]**, eine funktionale Datenbank, die Tupel speichert, Zeitreisen ermöglicht und eine auf Datalog basierende Anfragesprache besitzt.
+**[Rust][]**, "a systems programming language that runs blazingly fast,
+prevents segfaults, and guarantees thread safety."
 
-[Datomic]: http://www.datomic.com/
-[Conversations with Datomic][conversations] bietet eine gute Einführung.
+[Andreas][] wird von seinen Erfahrungen mit Rust berichten und einen Einblick
+in die Sprache geben.
+
+[Rust]: https://www.rust-lang.org/
+[Andreas]: https://www.klingt.net/
 
 [conversations]: http://gigasquidsoftware.com/blog/2015/08/15/conversations-with-datomic/
 [conversations2]: http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/
 
 ## Wann & wo?
 
-Am **28. Oktober, 19:00 Uhr** im [Social Impact Lab][] in Leipzig.
+Am **24. Februar, 19:00 Uhr** bei [Sage][] in Leipzig (Karl-Heine-Straße 109-111).
 
-[Social Impact Lab]: http://leipzig.socialimpactlab.eu/
+[Sage]: http://www.sage.de/
 
 ## Warum?
 
@@ -31,3 +35,9 @@ Inspiration dafür sind verschiedene Projekte:
 ## Alles andere
 
 Wird noch geschrieben, entweder irgendwann, oder weil du [nachgefragt hast](mailto:lu@papill0n.org?subject=dotdotdot)...
+
+## Vergangene Treffen
+
+- [dotdotdot #0](dots/00.html) (28. Oktober 2015) zum Thema **[Datomic][]*
+
+[Datomic]: http://www.datomic.com/
