@@ -1,0 +1,33 @@
+# dotdotdot #0
+
+## Das Thema
+
+**[Datomic][]**, eine funktionale Datenbank, die Tupel speichert, Zeitreisen ermöglicht und eine auf Datalog basierende Anfragesprache besitzt.
+
+[Datomic]: http://www.datomic.com/
+[Conversations with Datomic][conversations] bietet eine gute Einführung.
+
+[conversations]: http://gigasquidsoftware.com/blog/2015/08/15/conversations-with-datomic/
+[conversations2]: http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/
+
+## Wann & wo?
+
+Am **28. Oktober, 19:00 Uhr** im [Social Impact Lab][] in Leipzig.
+
+[Social Impact Lab]: http://leipzig.socialimpactlab.eu/
+
+## Warum?
+
+Bisher habe ich keinen Raum gefunden in dem etwas seltsame Ideen ebenso willkommen sind wie aktuelle Forschung, oder was auch immer gerade interessant scheint.  dotdotdot ist der Versuch diesen Raum zu schaffen, ein weiteres Experiment.
+
+Inspiration dafür sind verschiedene Projekte:
+
+- [Kitchen Table Coders](http://kitchentablecoders.com/about)
+- [Papers We Love](http://paperswelove.org/)
+- [The Recurse Center](https://www.recurse.com/)
+- [XOXO](https://2015.xoxofest.com/about)
+- und viele mehr
+
+## Alles andere
+
+Wird noch geschrieben, entweder irgendwann, oder weil du [nachgefragt hast](mailto:lu@papill0n.org?subject=dotdotdot)...
