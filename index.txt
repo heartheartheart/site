@@ -1,24 +1,16 @@
-# dotdotdot #1
+# dotdotdot #2
 
 ## Das Thema
 
-**[Rust][]**, "a systems programming language that runs blazingly fast,
-prevents segfaults, and guarantees thread safety."
+Kennen wir auch noch nicht.
 
-[Andreas][] wird von seinen Erfahrungen mit Rust berichten und einen Einblick
-in die Sprache geben.
-
-[Rust]: https://www.rust-lang.org/
-[Andreas]: https://www.klingt.net/
-
-[conversations]: http://gigasquidsoftware.com/blog/2015/08/15/conversations-with-datomic/
-[conversations2]: http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/
+Du kennst ein großartiges Paper, hast ein Lieblingsprojekt oder möchtest unbedingt
+mal über ein ungewöhnliches Thema reden?  Dann melde dich [bei uns](mailto:lu@papill0n.org?subject=dotdotdot)!
 
 ## Wann & wo?
 
-Am **24. Februar, 19:00 Uhr** bei [Sage][] in Leipzig (Karl-Heine-Straße 109-111).
-
-[Sage]: http://www.sage.de/
+Vermutlich Ende Mai, je nachdem ob sich ein Thema und ein Raum findet.  Über Vorschläge
+freuen wir uns!
 
 ## Warum?
 
