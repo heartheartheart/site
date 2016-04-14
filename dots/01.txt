@@ -11,9 +11,6 @@ in die Sprache geben.
 [Rust]: https://www.rust-lang.org/
 [Andreas]: https://www.klingt.net/
 
-[conversations]: http://gigasquidsoftware.com/blog/2015/08/15/conversations-with-datomic/
-[conversations2]: http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/
-
 ## Wann & wo?
 
 Am **24. Februar, 19:00 Uhr** bei [Sage][] in Leipzig (Karl-Heine-Straße 109-111).
