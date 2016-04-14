@@ -39,5 +39,7 @@ Wird noch geschrieben, entweder irgendwann, oder weil du [nachgefragt hast](mail
 ## Vergangene Treffen
 
 - [dotdotdot #0](dots/00.html) (28. Oktober 2015) zum Thema **[Datomic][]**
+- [dotdotdot #1](dots/01.html) (24. Februar 2016) zum Thema **[Rust][]**
 
 [Datomic]: http://www.datomic.com/
+[Rust]: https://www.rust-lang.org/
