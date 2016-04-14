@@ -1,0 +1,37 @@
+# dotdotdot #1
+
+## Das Thema
+
+**[Rust][]**, "a systems programming language that runs blazingly fast,
+prevents segfaults, and guarantees thread safety."
+
+[Andreas][] wird von seinen Erfahrungen mit Rust berichten und einen Einblick
+in die Sprache geben.
+
+[Rust]: https://www.rust-lang.org/
+[Andreas]: https://www.klingt.net/
+
+[conversations]: http://gigasquidsoftware.com/blog/2015/08/15/conversations-with-datomic/
+[conversations2]: http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/
+
+## Wann & wo?
+
+Am **24. Februar, 19:00 Uhr** bei [Sage][] in Leipzig (Karl-Heine-Straße 109-111).
+
+[Sage]: http://www.sage.de/
+
+## Warum?
+
+Bisher habe ich keinen Raum gefunden in dem etwas seltsame Ideen ebenso willkommen sind wie aktuelle Forschung, oder was auch immer gerade interessant scheint.  dotdotdot ist der Versuch diesen Raum zu schaffen, ein weiteres Experiment.
+
+Inspiration dafür sind verschiedene Projekte:
+
+- [Kitchen Table Coders](http://kitchentablecoders.com/about)
+- [Papers We Love](http://paperswelove.org/)
+- [The Recurse Center](https://www.recurse.com/)
+- [XOXO](https://2015.xoxofest.com/about)
+- und viele mehr
+
+## Alles andere
+
+Wird noch geschrieben, entweder irgendwann, oder weil du [nachgefragt hast](mailto:lu@papill0n.org?subject=dotdotdot)...
