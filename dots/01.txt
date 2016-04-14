@@ -11,6 +11,8 @@ in die Sprache geben.
 [Rust]: https://www.rust-lang.org/
 [Andreas]: https://www.klingt.net/
 
+Die Slides gibt es [auf GitHub](https://github.com/klingtnet/dotdotdot-Rust).
+
 ## Wann & wo?
 
 Am **24. Februar, 19:00 Uhr** bei [Sage][] in Leipzig (Karl-Heine-Straße 109-111).
