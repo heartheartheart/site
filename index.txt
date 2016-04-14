@@ -38,6 +38,6 @@ Wird noch geschrieben, entweder irgendwann, oder weil du [nachgefragt hast](mail
 
 ## Vergangene Treffen
 
-- [dotdotdot #0](dots/00.html) (28. Oktober 2015) zum Thema **[Datomic][]*
+- [dotdotdot #0](dots/00.html) (28. Oktober 2015) zum Thema **[Datomic][]**
 
 [Datomic]: http://www.datomic.com/
