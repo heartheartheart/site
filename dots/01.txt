@@ -11,7 +11,7 @@ in die Sprache geben.
 [Rust]: https://www.rust-lang.org/
 [Andreas]: https://www.klingt.net/
 
-Die Slides gibt es [auf GitHub](https://github.com/klingtnet/dotdotdot-Rust).
+Die Slides für die Präsentation sind [online verfügbar](https://files.klingt.net/slides/dotdotdot-Rust.html#/).
 
 ## Wann & wo?
 
